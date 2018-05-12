@@ -1,0 +1,78 @@
+_repo: The-Cricket-on-the-HearthA-Fairy-Tale-of-Home_37581
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Landseer, Edwin Henry, Sir
+    aliases:
+    - Landseer
+    - Landseer, Sir Edwin Henry
+    birthdate: 1802
+    deathdate: 1873
+    gutenberg_agent_id: '38928'
+    url: http://www.gutenberg.org/2009/agents/38928
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Henry_Landseer
+  - agent_name: Maclise, Daniel
+    aliases:
+    - Maclise, D. (Daniel)
+    - Croquis, Alfred
+    - M'Clise, D. (Daniel)
+    birthdate: 1806
+    deathdate: &id001 1870
+    gutenberg_agent_id: '38926'
+    url: http://www.gutenberg.org/2009/agents/38926
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Maclise
+  - agent_name: Doyle, Richard
+    aliases:
+    - Doyle, R. (Richard)
+    - Kitcat, Dick
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Stanfield, Clarkson
+    alias: Stanfield, C. (Clarkson)
+    birthdate: 1793
+    deathdate: 1867
+    gutenberg_agent_id: '38927'
+    url: http://www.gutenberg.org/2009/agents/38927
+    wikipedia: http://en.wikipedia.org/wiki/Clarkson_Stanfield
+covers:
+- cover_type: archival
+  image_path: 37581-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: *id001
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Presents "The Cricket on the Hearth" by Charles Dickens (1812-1870),
+  provided online by the Online Literature Library, which is supported by Knowledge
+  Matters Ltd.
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories, English'
+- !lcsh 'Holidays -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: 'The Cricket on the Hearth: A Fairy Tale of Home'
+url: http://www.gutenberg.org/ebooks/37581
