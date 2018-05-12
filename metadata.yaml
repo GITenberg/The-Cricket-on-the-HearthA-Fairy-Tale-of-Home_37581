@@ -17,7 +17,7 @@ contributor:
     - Croquis, Alfred
     - M'Clise, D. (Daniel)
     birthdate: 1806
-    deathdate: &id001 1870
+    deathdate: 1870
     gutenberg_agent_id: '38926'
     url: http://www.gutenberg.org/2009/agents/38926
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Maclise
@@ -54,13 +54,15 @@ creator:
     - Boz
     - Dickens, Charles John Huffam
     birthdate: 1812
-    deathdate: *id001
+    deathdate: 1870
     gutenberg_agent_id: '37'
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: Presents "The Cricket on the Hearth" by Charles Dickens (1812-1870),
   provided online by the Online Literature Library, which is supported by Knowledge
   Matters Ltd.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37581#The-Cricket-on-the-HearthA-Fairy-Tale-of-Home
 gutenberg_issued: '2011-10-01'
 gutenberg_type: Text
 identifiers:
